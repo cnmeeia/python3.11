@@ -2,7 +2,7 @@
 
 
 ```bash
-tar xzf Python-3.10.0.tgz
+tar xzf Python-3.11.5.tgz
 ```
 
 编译Python源码
@@ -10,7 +10,7 @@ tar xzf Python-3.10.0.tgz
 进入解压后的文件夹内，进行选项配置
 
 ```bash
-cd Python-3.10.0
+cd Python-3.11.5
 
 ./configure --enable-optimizations
 
